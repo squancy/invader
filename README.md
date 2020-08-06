@@ -1,2 +1,2 @@
 # invader
-simple game in racket
+simple space invaders implemented in racket
