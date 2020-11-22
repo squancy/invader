@@ -1,2 +1,2 @@
-# invader
-simple space invaders implemented in racket
+# Invader
+Simple Space Invaders implemented in Racket.
